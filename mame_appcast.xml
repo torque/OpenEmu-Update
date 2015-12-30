@@ -19,5 +19,19 @@
       />
       <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
     </item>
+
+    <item>
+      <title>MAME Version 0.149</title>
+      <sparkle:releaseNotesLink>
+        http://openemu.org/category/releasenotes/mame/MAME_0.149.html
+      </sparkle:releaseNotesLink>
+      <pubDate>Thu, 15 Nov 2012 19:32:53 -0500</pubDate>
+      <enclosure
+        url="https://github.com/OpenEmu/UME-Core/releases/download/v0.149/MAME_0.149.zip"
+        sparkle:version="0.149"
+        type="application/octet-stream"
+        length="26933214"
+      />
+    </item>
   </channel>
 </rss>

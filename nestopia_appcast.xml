@@ -19,5 +19,19 @@
       />
       <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
     </item>
+
+    <item>
+      <title>Nestopia Version 1.42.4</title>
+      <sparkle:releaseNotesLink>
+        http://openemu.org/category/releasenotes/nestopia/Nestopia_1.42.4.html
+      </sparkle:releaseNotesLink>
+      <pubDate>Sun, 27 Mar 2011 19:36:15 -0500</pubDate>
+      <enclosure
+        url="https://github.com/OpenEmu/Nestopia-Core/releases/download/v1.42.4/Nestopia_1.42.4.zip"
+        sparkle:version="1.42.4"
+        type="application/octet-stream"
+        length="788101"
+      />
+    </item>
   </channel>
 </rss>

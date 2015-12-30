@@ -19,5 +19,19 @@
       />
       <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
     </item>
+
+    <item>
+      <title>TwoMbit Version 1.0.5.1</title>
+      <sparkle:releaseNotesLink>
+        http://openemu.org/category/releasenotes/twombit/TwoMbit_1.0.5.1.html
+      </sparkle:releaseNotesLink>
+      <pubDate>Sun, 27 Mar 2011 19:40:55 -0500</pubDate>
+      <enclosure
+        url="https://github.com/OpenEmu/TwoMbit-Core/releases/download/v1.0.5.1/TwoMbit_1.0.5.1.zip"
+        sparkle:version="1.0.5.1"
+        type="application/octet-stream"
+        length="133561"
+      />
+    </item>
   </channel>
 </rss>

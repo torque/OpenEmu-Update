@@ -19,5 +19,19 @@
       />
       <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
     </item>
+
+    <item>
+      <title>PPSSPP Version 0.9.9.1</title>
+      <sparkle:releaseNotesLink>
+        http://openemu.org/category/releasenotes/ppsspp/PPSSPP_0.9.9.1.html
+      </sparkle:releaseNotesLink>
+      <pubDate>Thu, 15 Nov 2012 19:32:53 -0500</pubDate>
+      <enclosure
+        url="https://github.com/OpenEmu/PPSSPP-Core/releases/download/v0.9.9.1/PPSSPP_0.9.9.1.zip"
+        sparkle:version="0.9.9.1"
+        type="application/octet-stream"
+        length="8430845"
+      />
+    </item>
   </channel>
 </rss>

@@ -19,5 +19,19 @@
       />
       <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
     </item>
+
+    <item>
+      <title>DeSmuME Version 0.9.10.2</title>
+      <sparkle:releaseNotesLink>
+        http://openemu.org/category/releasenotes/desmume/DeSmuME_0.9.10.2.html
+      </sparkle:releaseNotesLink>
+      <pubDate>Sun, 27 Mar 2011 19:36:15 -0500</pubDate>
+      <enclosure
+        url="https://github.com/OpenEmu/DeSmuME-Core/releases/download/v0.9.10.2/DeSmuME_0.9.10.2.zip"
+        sparkle:version="0.9.10.2"
+        type="application/octet-stream"
+        length="1047749"
+      />
+    </item>
   </channel>
 </rss>

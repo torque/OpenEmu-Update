@@ -19,5 +19,19 @@
       />
       <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
     </item>
+
+    <item>
+      <title>Mupen64Plus Version 2.0.1</title>
+      <sparkle:releaseNotesLink>
+        http://openemu.org/category/releasenotes/mupen64plus/Mupen64Plus_2.0.1.html
+      </sparkle:releaseNotesLink>
+      <pubDate>Wed, 2 Jan 2013 19:30:09 -0500</pubDate>
+      <enclosure
+        url="https://github.com/OpenEmu/Mupen64Plus-Core/releases/download/v2.0.1/Mupen64Plus_2.0.1.zip"
+        sparkle:version="2.0.1"
+        type="application/octet-stream"
+        length="1315513"
+      />
+    </item>
   </channel>
 </rss>
