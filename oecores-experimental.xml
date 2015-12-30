@@ -3,7 +3,7 @@
   <core
     id="org.openemu.higan"
     name="Higan"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/higan_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/higan_appcast.xml">
 
     <description>Higan emulator</description>
     <systems>
@@ -14,7 +14,7 @@
   <core
     id="org.openemu.crabemu"
     name="CrabEmu"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/crabemu_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/crabemu_appcast.xml">
 
     <description>Sega Master System emulator</description>
     <systems>
@@ -28,7 +28,7 @@
   <core
     id="org.openemu.fceu"
     name="FCEU"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/fceu_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/fceu_appcast.xml">
 
     <description>Nintendo/Famicom emulator</description>
     <systems>
@@ -39,7 +39,7 @@
   <core
     id="org.openemu.gambatte"
     name="Gambatte"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/gambatte_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/gambatte_appcast.xml">
 
     <description>Game Boy Color emulator</description>
     <systems>
@@ -50,7 +50,7 @@
   <core
     id="org.openemu.genesisplus"
     name="Genesis Plus"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/genesisplus_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/genesisplus_appcast.xml">
 
     <description>Sega Genesis emulator</description>
     <systems>
@@ -62,7 +62,7 @@
   <core
     id="org.openemu.neopop"
     name="NeoPop"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/neopop_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/neopop_appcast.xml">
 
     <description>Neo Geo Pocket emulator</description>
     <systems>
@@ -73,7 +73,7 @@
   <core
     id="org.openemu.nestopia"
     name="Nestopia"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/nestopia_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/nestopia_appcast.xml">
 
     <description>Nintendo/Famicom emulator</description>
     <systems>
@@ -85,7 +85,7 @@
   <core
     id="org.openemu.snes9x"
     name="Snes9X"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/snes9x_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/snes9x_appcast.xml">
 
     <description>Super Nintendo emulator</description>
     <systems>
@@ -96,7 +96,7 @@
   <core
     id="org.openemu.visualboyadvance"
     name="Visual Boy Advance"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/vba_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/vba_appcast.xml">
 
     <description>Game Boy Advance emulator</description>
     <systems>
@@ -107,7 +107,7 @@
   <core
     id="org.openemu.desmume"
     name="DeSmuME"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/desmume_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/desmume_appcast.xml">
 
     <description>Nintendo DS emulator</description>
     <systems>
@@ -118,7 +118,7 @@
   <core
     id="org.openemu.twombit"
     name="TwoMbit"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/twombit_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/twombit_appcast.xml">
 
     <description>Sega Master System emulator</description>
     <systems>
@@ -130,7 +130,7 @@
   <core
     id="org.openemu.mednafen"
     name="Mednafen"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/mednafen_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/mednafen_appcast.xml">
 
     <description>Mednafen emulator</description>
     <systems>
@@ -147,7 +147,7 @@
   <core
     id="org.openemu.picodrive"
     name="Picodrive"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/picodrive_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/picodrive_appcast.xml">
 
     <description>Sega 32X emulator</description>
     <systems>
@@ -158,7 +158,7 @@
   <core
     id="org.openemu.mupen64plus"
     name="Mupen64Plus"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/mupen64plus_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/mupen64plus_appcast.xml">
 
     <description>Nintendo 64 emulator</description>
     <systems>
@@ -169,7 +169,7 @@
   <core
     id="org.openemu.atari800"
     name="Atari800"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/atari800_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/atari800_appcast.xml">
 
     <description>Atari 5200 emulator</description>
     <systems>
@@ -180,7 +180,7 @@
   <core
     id="org.openemu.mame"
     name="MAME"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/mame_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/mame_appcast.xml">
 
     <description>MAME emulator</description>
     <systems>
@@ -191,7 +191,7 @@
   <core
     id="org.openemu.ppsspp"
     name="PPSSPP"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/ppsspp_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/ppsspp_appcast.xml">
 
     <description>Sony PSP emulator</description>
     <systems>
@@ -202,7 +202,7 @@
   <core
     id="org.openemu.prosystem"
     name="ProSystem"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/prosystem_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/prosystem_appcast.xml">
 
     <description>Atari 7800 emulator</description>
     <systems>
@@ -213,7 +213,7 @@
   <core
     id="org.openemu.stella"
     name="Stella"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/stella_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/stella_appcast.xml">
 
     <description>Atari 2600 emulator</description>
     <systems>
@@ -224,7 +224,7 @@
   <core
     id="org.openemu.vecxgl"
     name="VecXGL"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/vecxgl_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/vecxgl_appcast.xml">
 
     <description>Vectrex emulator</description>
     <systems>
@@ -235,7 +235,7 @@
   <core
     id="org.openemu.bliss"
     name="Bliss"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/bliss_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/bliss_appcast.xml">
 
     <description>Intellivision emulator</description>
     <systems>
@@ -246,7 +246,7 @@
   <core
     id="org.openemu.o2em"
     name="O2EM"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/o2em_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/o2em_appcast.xml">
 
     <description>Odyssey2/Videopac emulator</description>
     <systems>
@@ -257,7 +257,7 @@
   <core
     id="org.openemu.yabause"
     name="Yabause"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/yabause_appcast.xml">
+    appcastURL="https://raw.github.com/torque/OpenEmu-Update/live-test/yabause_appcast.xml">
 
     <description>Sega Saturn emulator</description>
     <systems>
